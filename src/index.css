@@ -1,0 +1,7 @@
+/* Simple base styles */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(#fff7ed,#fff1f2);
+}
